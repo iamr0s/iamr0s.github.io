@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://iamr0s.github.io/sitemap.xml

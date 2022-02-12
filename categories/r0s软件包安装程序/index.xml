@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R0S软件包安装程序 on R0S</title>
+    <link>https://iamr0s.github.io/categories/r0s%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/</link>
+    <description>Recent content in R0S软件包安装程序 on R0S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Feb 2022 16:06:00 +0800</lastBuildDate><atom:link href="https://iamr0s.github.io/categories/r0s%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于R0S软件包安装程序的奇淫巧计</title>
+      <link>https://iamr0s.github.io/post/4/</link>
+      <pubDate>Tue, 08 Feb 2022 16:06:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/post/4/</guid>
+      <description>跳过是否允许通知和网络 在最新的MIUI系统下，非应用市场安装的应用，首次启动会询问是否允许通知和网络，MIUI的解释是为了隐私安全。有时候我</description>
+    </item>
+    
+    <item>
+      <title>R0S软件包安装程序</title>
+      <link>https://iamr0s.github.io/post/3/</link>
+      <pubDate>Tue, 08 Feb 2022 15:16:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/post/3/</guid>
+      <description>1. 什么是R0S软件包安装程序 R0S软件包安装程序是在替换系统自带安装程序，带来更加高效化、专业化的安装体验的理念下诞生的。目前支持Andro</description>
+    </item>
+    
+  </channel>
+</rss>

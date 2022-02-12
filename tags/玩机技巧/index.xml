@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>玩机技巧 on R0S</title>
+    <link>https://iamr0s.github.io/tags/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/</link>
+    <description>Recent content in 玩机技巧 on R0S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 12 Feb 2022 20:21:00 +0800</lastBuildDate><atom:link href="https://iamr0s.github.io/tags/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIUI&#43;的Magisk模块</title>
+      <link>https://iamr0s.github.io/post/5/</link>
+      <pubDate>Sat, 12 Feb 2022 20:21:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/post/5/</guid>
+      <description>有一些ROM会把MIUI+精简掉，通过Magisk模块的方式，把MIUI+装回来，要求你是MIUI 13和Android 11以上。 1. 下载MIU</description>
+    </item>
+    
+    <item>
+      <title>关于R0S软件包安装程序的奇淫巧计</title>
+      <link>https://iamr0s.github.io/post/4/</link>
+      <pubDate>Tue, 08 Feb 2022 16:06:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/post/4/</guid>
+      <description>跳过是否允许通知和网络 在最新的MIUI系统下，非应用市场安装的应用，首次启动会询问是否允许通知和网络，MIUI的解释是为了隐私安全。有时候我</description>
+    </item>
+    
+  </channel>
+</rss>

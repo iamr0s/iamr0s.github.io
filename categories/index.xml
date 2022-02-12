@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on R0S</title>
+    <link>https://iamr0s.github.io/categories/</link>
+    <description>Recent content in Categories on R0S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 12 Feb 2022 20:21:00 +0800</lastBuildDate><atom:link href="https://iamr0s.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magisk模块</title>
+      <link>https://iamr0s.github.io/categories/magisk%E6%A8%A1%E5%9D%97/</link>
+      <pubDate>Sat, 12 Feb 2022 20:21:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/magisk%E6%A8%A1%E5%9D%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIUI</title>
+      <link>https://iamr0s.github.io/categories/miui/</link>
+      <pubDate>Sat, 12 Feb 2022 20:21:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/miui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIUI&#43;</title>
+      <link>https://iamr0s.github.io/categories/miui&#43;/</link>
+      <pubDate>Sat, 12 Feb 2022 20:21:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/miui&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>玩机技巧</title>
+      <link>https://iamr0s.github.io/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Sat, 12 Feb 2022 20:21:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R0S软件包安装程序</title>
+      <link>https://iamr0s.github.io/categories/r0s%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Tue, 08 Feb 2022 16:06:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/r0s%E8%BD%AF%E4%BB%B6%E5%8C%85%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开端</title>
+      <link>https://iamr0s.github.io/categories/%E5%BC%80%E7%AB%AF/</link>
+      <pubDate>Tue, 08 Feb 2022 13:54:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/%E5%BC%80%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>打赏</title>
+      <link>https://iamr0s.github.io/categories/%E6%89%93%E8%B5%8F/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://iamr0s.github.io/categories/%E6%89%93%E8%B5%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
